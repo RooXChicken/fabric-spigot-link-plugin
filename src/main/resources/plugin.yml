@@ -1,0 +1,13 @@
+main: com.rooxchicken.plugin.Plugin
+name: Plugin
+version: 0.1
+api-version: '1.21'
+
+commands:
+   getitems:
+      usage: /getitems
+   
+   wand:
+      usage: /wand
+      
+# depend: [ ProtocolLib ]
